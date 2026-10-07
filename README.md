@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Annis BOUMAHDI</h1>
+<h1 align="center">Hi 👋, I'm Annis Boumahdi</h1>
 <h3 align="center">A student at École Nationale des Ponts et Chaussées, passionate about new technologies.</h3>
 
 - 🔭 I’m currently working on [Department Project : Classification of Cognitive Profiles MBTI]
